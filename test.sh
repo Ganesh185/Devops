@@ -1,1 +1,2 @@
 uname
+echo "hello world"
