@@ -1,3 +1,3 @@
 uname
 echo "hello world"
-echo "gannis"
+echo "heyy there"
